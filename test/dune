@@ -1,0 +1,4 @@
+(test
+ (name getopt_test)
+ (libraries getopt unix)
+)

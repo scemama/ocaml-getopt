@@ -1,5 +1,5 @@
 2000-07-15   Initial release
-
+  
 2000-08-04   Findlib installation
 
 2003-03-01   Bug fix in Makefile
@@ -9,3 +9,7 @@
 2004-08-11   Typos in COPYING
 
 2012-01-18   Oasis packaging
+
+2023-02-13   OCaml 5.0 compatibility + dune packaging
+
+

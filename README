@@ -33,3 +33,7 @@ General usage information
 
 The documentation is included in the file getopt.mli.
 There is an example in sample.ml.
+
+
+Note: This repository was introduced for compatibility with OCaml 5.0 in Feb 2023.
+Before, getopt was packaged with Oasis and was hosted here: https://github.com/gildor478/ocaml-getopt
